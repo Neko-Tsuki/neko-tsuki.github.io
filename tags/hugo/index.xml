@@ -8,10 +8,10 @@
         <language>en-us</language>
         <lastBuildDate>Wed, 04 May 2022 21:15:10 +0800</lastBuildDate><atom:link href="https://example.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>測試文章</title>
-        <link>https://example.com/posts/</link>
+        <link>https://example.com/post/</link>
         <pubDate>Wed, 04 May 2022 21:15:10 +0800</pubDate>
         
-        <guid>https://example.com/posts/</guid>
+        <guid>https://example.com/post/</guid>
         <description>&lt;h1 id=&#34;一篇文章&#34;&gt;一篇文章&lt;/h1&gt;
 </description>
         </item>

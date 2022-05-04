@@ -15,6 +15,9 @@
                 href="https://example.com/categories/"
                 />
   </url><url>
+    <loc>https://example.com/p/first_post/</loc>
+    <lastmod>2022-05-04T21:15:10+08:00</lastmod>
+  </url><url>
     <loc>https://example.com/tags/hugo/</loc>
     <lastmod>2022-05-04T21:15:10+08:00</lastmod>
   </url><url>
@@ -50,7 +53,7 @@
     <loc>https://example.com/categories/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2022-05-04T21:15:10+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2022-05-04T21:15:10+08:00</lastmod>
   </url>
 </urlset>
