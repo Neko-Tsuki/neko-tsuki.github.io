@@ -275,21 +275,37 @@
      
     
         
-    <script src='//cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js'></script>
-<div id="waline" class="waline-container"></div>
-<style>
-    .waline-container {
-        background-color: var(--card-background);
-        border-radius: var(--card-border-radius);
-        box-shadow: var(--shadow-l1);
-        padding: var(--card-padding);
+    <script 
+                src="https://latest.cactus.chat/cactus.js"crossorigin="anonymous"
+                
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://latest.cactus.chat/style.css"crossorigin="anonymous"
+            ><style>
+    .cactus-editor-textarea {
+        color: var(--body-text-color);
     }
-    .waline-container .vcount {
+
+    .cactus-comment-header {
         color: var(--card-text-color-main);
     }
-</style><script>
-    
-    new Waline({"dark":"html[data-scheme=\"dark\"]","el":"#waline","emoji":["https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.1/tw-emoji/"],"locale":{"admin":"Admin"},"requiredMeta":["name","email","url"],"serverURL":"https://waline-9jmq8h0hd-declan-davies18-protonmailc.vercel.app"});
+
+    .cactus-message-text > p {
+        color: var(--body-text-color);
+    }
+</style>
+
+<div id="comment-section"></div>
+
+<script>
+    initComments({
+        node: document.getElementById("comment-section"),
+        defaultHomeserverUrl: "https:\/\/matrix.cactus.chat:8448",
+        serverName: "cactus.chat",
+        siteName: "blog.kori-moe.win",
+        commentSectionId: "2247257f33c5eaa1cd0616bf37b07249"
+    })
 </script>
 
     

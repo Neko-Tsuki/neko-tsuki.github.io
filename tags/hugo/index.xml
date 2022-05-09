@@ -6,15 +6,39 @@
         <description>Recent content in Hugo on Kitamori喵喵的部落格</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 04 May 2022 21:15:10 +0800</lastBuildDate><atom:link href="https://example.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>第N个Blog创建完成</title>
-        <link>https://example.com/p/%E7%AC%ACn%E4%B8%AAblog%E5%88%9B%E5%BB%BA%E5%AE%8C%E6%88%90/</link>
-        <pubDate>Wed, 04 May 2022 21:15:10 +0800</pubDate>
+        <lastBuildDate>Mon, 09 May 2022 15:09:44 +0800</lastBuildDate><atom:link href="https://example.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Blog成功建立</title>
+        <link>https://example.com/p/first-post/</link>
+        <pubDate>Mon, 09 May 2022 15:09:44 +0800</pubDate>
         
-        <guid>https://example.com/p/%E7%AC%ACn%E4%B8%AAblog%E5%88%9B%E5%BB%BA%E5%AE%8C%E6%88%90/</guid>
-        <description>&lt;h1 id=&#34;创建完成了&#34;&gt;创建完成了&lt;/h1&gt;
-&lt;p&gt;不知道写什么东西，总之这是第N个Blog了，应该会一直使用 &amp;hellip; 应该吧 &amp;hellip;&lt;/p&gt;
-&lt;h1 id=&#34;不要再看了下面没有了&#34;&gt;不要再看了，下面没有了！！&lt;/h1&gt;
+        <guid>https://example.com/p/first-post/</guid>
+        <description>&lt;h1 id=&#34;这是blog的第一篇文章&#34;&gt;这是Blog的第一篇文章&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;不知道第几个Blog也不知道第几次修改&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;目前还不能说完全做好整体的内容&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;还有很多小的地方需要重新修改&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/p/first-post/img1.png&#34;
+	width=&#34;600&#34;
+	height=&#34;600&#34;
+	srcset=&#34;https://example.com/p/first-post/img1_hu73d940f749b2a13f4e094627b42695c2_209060_480x0_resize_box_3.png 480w, https://example.com/p/first-post/img1_hu73d940f749b2a13f4e094627b42695c2_209060_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image1&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;结束&#34;&gt;结束&amp;hellip;&lt;/h1&gt;
 </description>
         </item>
         
